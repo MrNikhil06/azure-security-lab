@@ -1,2 +1,6 @@
-# azure-security-lab
-Create Azure VM Enable NSG rules Configure Just-in-Time (JIT) access Enable Microsoft Defender for Cloud Apply Azure Policy Enable Disk Encryption (Key Vault)
+README.md
+architecture.png
+steps.md
+scripts/
+   create-vm.ps1
+   enable-jit.ps1
